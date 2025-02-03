@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@raginiyadav21331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raginiyadav21331" height="30" width="40" /></a>
 <a href="https://instagram.com/ragini_1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragini_1310" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raginiy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raginiy" height="30" width="40" /></a>
 </p>
@@ -31,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragini0011&" alt="ragini0011" /></p>
 
-Support
+
 
 
 
