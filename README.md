@@ -6,7 +6,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on **Building a github clone and refining my skills in JavaScript, React, and the MERN Stack.**
+- 🔭 I’m currently working on **Building a Github Clone and refining my skills in JavaScript, React, and the MERN Stack.**
 
 - 🌱 I’m currently learning **Deepening my knowledge of JavaScript, React, and mastering the MERN Stack.**
 
