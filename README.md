@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Improving my understanding of advanced algorithms and system design, particularly for scalable applications.**
 
-- 💬 Ask me about **Data Structures and Algorithms (DSA). I have a strong grasp on sorting algorithms, dynamic programming, and other key concepts.**
+- 💬 Ask me about **Data Structures and Algorithms (DSA). I have a strong grasp on Sorting Algorithms, Dynamic Programming, and other key concepts.**
 
 - 📫 How to reach me **sy953126gamil.com**
 
